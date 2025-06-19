@@ -287,7 +287,13 @@ Este projeto foi desenvolvido como parte do programa **Oracle Next Education**, 
 
 Agradeço a essas organizações pela oportunidade de colocar em prática conceitos de Ciência de Dados aplicados ao mundo corporativo.
 
+---
 
+# Certificado
+
+[Challenge Telecom X analise de evasão de clientes.pdf](https://github.com/user-attachments/files/20823345/Challenge.Telecom.X.analise.de.evasao.de.clientes.pdf)
+
+https://cursos.alura.com.br/certificate/7e5e79af-899d-48c9-8974-2418d82b5fa0
  
 
 
