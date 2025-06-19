@@ -291,8 +291,6 @@ Agradeço a essas organizações pela oportunidade de colocar em prática concei
 
 # Certificado
 
-[Challenge Telecom X analise de evasão de clientes.pdf](https://github.com/user-attachments/files/20823345/Challenge.Telecom.X.analise.de.evasao.de.clientes.pdf)
-
 https://cursos.alura.com.br/certificate/7e5e79af-899d-48c9-8974-2418d82b5fa0
  
 
