@@ -265,6 +265,22 @@ Com base na análise exploratória realizada, é possível concluir que a evasã
 
 - Monitorar e melhorar a percepção do serviço de internet via fibra óptica.
 
+## Exportação dos Dados Tratados
+
+Após a etapa de limpeza, transformação e enriquecimento dos dados, o conjunto final foi exportado em dois formatos amplamente utilizados, com codificação e separadores adaptados ao padrão brasileiro:
+
+**CSV:** Arquivo separado por ponto e vírgula (;), com vírgulas decimais (',') e codificação utf-8-sig, ideal para abertura no Excel em português.
+```
+python
+df.to_csv('TelecomX_Data_Clean.csv', sep=';', decimal=',', index=False, encoding='utf-8-sig')
+```
+**Excel (.xlsx):** Arquivo compatível com o Microsoft Excel, contendo o DataFrame final sem a coluna de índice.
+```
+python
+df.to_excel('TelecomX_Data_Clean.xlsx', index=False)
+```
+---
+
 # 🤝 Agradecimentos
 
 Este projeto foi desenvolvido como parte do programa **Oracle Next Education**, com apoio da **Oracle** e da **Alura Latam**, em uma iniciativa de capacitação em tecnologia baseada em desafios reais de negócios. A proposta do desafio foi elaborada com a colaboração da **Apple**, a fim de promover o aprendizado prático e orientado por projetos.
